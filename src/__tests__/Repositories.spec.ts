@@ -36,10 +36,10 @@ const gamesSeed: Pick<Game, 'title'>[] = [
     title: 'Rocket League',
   },
   {
-    title: 'Need For Speed: Most Wanted',
+    title: 'The Last Of Us',
   },
   {
-    title: 'The Last Of Us',
+    title: 'Need For Speed: Most Wanted',
   },
   {
     title: 'Need For Speed: Payback',
